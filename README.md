@@ -1,3 +1,17 @@
 # Certifications
 This repository contains my certifications
-![Screenshot 2023-12-25 122039](https://github.com/user-attachments/assets/bad7d7d5-f000-4835-8710-a7895354e45e)
+
+# C# Certification
+![Certification-1](https://github.com/user-attachments/assets/e5e4e34e-1c7e-4dd3-a05a-bf38de448b20)
+
+# Java Basic Certificate
+![java_basic certificate-1](https://github.com/user-attachments/assets/12cbaf90-6dda-499d-9e3e-150403ce9fcb)
+
+# Golden Key Member Certificate
+![Golden Key Member Certificate - Alvaro Zayas-Bazan Santos -1](https://github.com/user-attachments/assets/b0b27241-ea1c-4dec-bf14-fd7987b4d5d7)
+
+# Problem Solving Basic
+![problem_solving_basic certificate-1](https://github.com/user-attachments/assets/7a0e651e-1825-406c-b2ce-520d4c962667)
+
+# Software Engineer Intern Certificate
+![software_engineer_intern certificate-1](https://github.com/user-attachments/assets/2b837120-6c7a-4245-be83-876878768cdd)
