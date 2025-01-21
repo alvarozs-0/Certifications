@@ -10,10 +10,6 @@ This repository contains my certifications
 ![java_basic certificate-1](https://github.com/user-attachments/assets/12cbaf90-6dda-499d-9e3e-150403ce9fcb)
 
 
-# Golden Key Member Certificate
-![Golden Key Member Certificate - Alvaro Zayas-Bazan Santos -1](https://github.com/user-attachments/assets/b0b27241-ea1c-4dec-bf14-fd7987b4d5d7)
-
-
 # Problem Solving Basic
 ![problem_solving_basic certificate-1](https://github.com/user-attachments/assets/7a0e651e-1825-406c-b2ce-520d4c962667)
 
